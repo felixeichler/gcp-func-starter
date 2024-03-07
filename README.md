@@ -10,14 +10,14 @@ Starter for a TypeScript Google Cloud function
 
 ## Develop
 
-```
+```bash
 npm install         # run once to initialize
 npm run dev         # run for local dev, incl auto reload
 ```
 
 ## Deploy
 
-```
+```bash
 gcloud config set project XXX
 npm run deploy
 ```
